@@ -22,11 +22,16 @@
   }, {
     "label" : "Description",
     "value" : "The Francois Vase is one of the famousest of its own, it is sometimes named 'Greek Bible' and for good reason. On its 66 cm height and 57 cm large it shows of a various number of scenes; from Peleus and Thetis mariage, to the hunt of Kalydon's wild board by Meleager. The vase is covered by an astonishing number of inscriptions (rare at that time), signed by both his painter and potter (also very rare). To illustrate the wide range of possible interpretation, we can say that three theses have been devoted to his interpretation"
-  }, {
+  },
+    {
+    "label" : "See on Beazley archive",
+    "value" : "https://www.beazley.ox.ac.uk/record/35ACBA5B-7FF1-4572-BA34-6AC260F62A33"
+  },
+    {
     "label" : "Discovery",
     "value" : [ {
       "@value" : "Vulci, 1844-1845"
-    }, {
+    },      {
       "@value" : "By Alessandro François"
     } ]
   } ],
