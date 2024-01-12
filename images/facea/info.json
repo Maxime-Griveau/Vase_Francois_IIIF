@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 166,
+    "height" : 105
+  }, {
+    "width" : 332,
+    "height" : 209
+  }, {
+    "width" : 663,
+    "height" : 417
+  }, {
+    "width" : 1326,
+    "height" : 834
+  }, {
+    "width" : 2651,
+    "height" : 1667
+  }, {
+    "width" : 5301,
+    "height" : 3334
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5301,
+  "@id" : "https://Maxime-Griveau.github.io/Vase_Francois_IIIF/images/facea",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3334
+}
