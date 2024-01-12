@@ -1,0 +1,225 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Maxime-Griveau.github.io/Vase_Francois_IIIF/manifests/MANIFESTVFIN",
+  "@type" : "sc:Manifest",
+  "label" : "Manifest, François Vase IIIF",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : [ {
+      "@value" : "Kleitias, painter"
+    }, {
+      "@value" : "Ergotimos, potter"
+    } ]
+  }, {
+    "label" : "Created",
+    "value" : [ {
+      "@value" : "Athens, circa 570bc",
+      "language" : "en"
+    } ]
+  }, {
+    "label" : "Technique",
+    "value" : "black figure"
+  }, {
+    "label" : "Description",
+    "value" : "[The Francois Vase is one of the famousest of its own, it is sometimes named Greek Bible and for good reason. On its 66 cm height and 57 cm large it shows of a various number of scenes; from Peleus and Thetis mariage, to the hunt of Kalydon's wild board by Meleager. The vase is covered by an astonishing number of inscriptions (rare at that time), signed by both his painter and potter (also very rare). To illustrate the wide range of possible interpretation, we can say that three theses have been devoted to his interpretation]"
+  }, {
+    "label" : "Discovery",
+    "value" : [ {
+      "@value" : "Vulci, 1844-1845"
+    }, {
+      "@value" : "By Alessandro François"
+    } ]
+  } ],
+  "description" : [ {
+    "@value" : "Visualization of the François Vase folowing the IIIF's Guidelines",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/4.0/",
+  "attribution" : "[Maxime griveau]",
+  "sequences" : [ {
+    "@id" : "http://a61843f6-3dd0-4340-b05e-d16b5b480bbe",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://952b6962-8b8d-4e1f-8163-52ceb6508459",
+      "@type" : "sc:Canvas",
+      "label" : "Side A",
+      "height" : 3334,
+      "width" : 5301,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c6fc474e-5bbc-4f13-83fb-86ebe9df3f08",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://maxime-griveau.github.io/IIIF_Project/images/facea/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://maxime-griveau.github.io/IIIF_Project/images/facea",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3334,
+          "width" : 5301
+        },
+        "on" : "http://952b6962-8b8d-4e1f-8163-52ceb6508459"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8b78c92a-0d6e-4e8e-858b-55c8371e3d4d",
+      "@type" : "sc:Canvas",
+      "label" : "Side B",
+      "height" : 3557,
+      "width" : 4403,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6af52b01-7208-47a8-8cb9-0c19ad585238",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://maxime-griveau.github.io/IIIF_Project/images/faceb/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://maxime-griveau.github.io/IIIF_Project/images/faceb",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3557,
+          "width" : 4403
+        },
+        "on" : "http://8b78c92a-0d6e-4e8e-858b-55c8371e3d4d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a1bda0ec-270d-4627-865a-331a94daf48f",
+      "@type" : "sc:Canvas",
+      "label" : "Left Handle",
+      "height" : 5472,
+      "width" : 3648,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://04407e32-348c-40e7-8533-197758921308",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://maxime-griveau.github.io/IIIF_Project/images/ansegauche1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://maxime-griveau.github.io/IIIF_Project/images/ansegauche1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5472,
+          "width" : 3648
+        },
+        "on" : "http://a1bda0ec-270d-4627-865a-331a94daf48f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5f678ee0-697d-4a3a-92f0-24d8fd554763",
+      "@type" : "sc:Canvas",
+      "label" : "Right Handle",
+      "height" : 1080,
+      "width" : 1263,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8cbbdcec-b7a8-46d6-8431-8b3baabf6311",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://maxime-griveau.github.io/IIIF_Project/images/ansedroite1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://maxime-griveau.github.io/IIIF_Project/images/ansedroite1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1080,
+          "width" : 1263
+        },
+        "on" : "http://5f678ee0-697d-4a3a-92f0-24d8fd554763"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://33251eb8-1c7d-4035-88c1-aa3a03ee5595",
+      "@type" : "sc:Canvas",
+      "label" : "Signature",
+      "height" : 2880,
+      "width" : 5401,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2b8a551f-a64d-4e15-b9fa-6e3e889aa5e4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://maxime-griveau.github.io/IIIF_Project/images/signature/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://maxime-griveau.github.io/IIIF_Project/images/signature",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2880,
+          "width" : 5401
+        },
+        "on" : "http://33251eb8-1c7d-4035-88c1-aa3a03ee5595"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9d3ea5ea-b918-4abe-b418-61f6b14fd112",
+      "@type" : "sc:Canvas",
+      "label" : "Kalydon's wild boar",
+      "height" : 755,
+      "width" : 1280,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8fa37e80-2c4f-4485-ad3a-d99ba7603d44",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://maxime-griveau.github.io/IIIF_Project/images/kalydon/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://maxime-griveau.github.io/IIIF_Project/images/kalydon",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 755,
+          "width" : 1280
+        },
+        "on" : "http://9d3ea5ea-b918-4abe-b418-61f6b14fd112"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/range/root",
+    "@type" : "sc:Range",
+    "label" : "This range is not shown",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/range/toc" ]
+  }, {
+    "@id" : "http://example.org/range/toc",
+    "@type" : "sc:Range",
+    "label" : "Table of Contents",
+    "ranges" : [ {
+      "@id" : "http://example.org/range/vasefrancois",
+      "@type" : "sc:Range",
+      "label" : "Vase François"
+    } ]
+  }, {
+    "@id" : "http://example.org/range/vasefrancois",
+    "@type" : "sc:Range",
+    "label" : "Vase François",
+    "canvases" : [ "http://952b6962-8b8d-4e1f-8163-52ceb6508459", "http://8b78c92a-0d6e-4e8e-858b-55c8371e3d4d", "http://5f678ee0-697d-4a3a-92f0-24d8fd554763", "http://a1bda0ec-270d-4627-865a-331a94daf48f", "http://33251eb8-1c7d-4035-88c1-aa3a03ee5595", "http://9d3ea5ea-b918-4abe-b418-61f6b14fd112" ]
+  } ]
+}
