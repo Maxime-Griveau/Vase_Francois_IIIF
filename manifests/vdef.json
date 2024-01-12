@@ -35,7 +35,7 @@
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/4.0/",
-  "attribution" : "[Maxime griveau]",
+  "attribution" : "Maxime Griveau",
   "sequences" : [ {
     "@id" : "http://a61843f6-3dd0-4340-b05e-d16b5b480bbe",
     "@type" : "sc:Sequence",
