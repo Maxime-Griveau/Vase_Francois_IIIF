@@ -1,0 +1,13 @@
+{
+  "id" : "https://Maxime-Griveau.github.io/Vase_Francois_IIIF/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Maxime-Griveau/Vase_Francois_IIIF project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Maxime-Griveau.github.io/Vase_Francois_IIIF/manifests/MANIFESTVFIN",
+    "label" : "Manifest, François Vase IIIF"
+  } ]
+}
